@@ -1,0 +1,48 @@
+body {
+        height: 100%;
+        margin: 0;
+        
+}
+
+div {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+}
+
+.intro {
+
+    
+        background-color: rgb(241, 110, 82);
+    
+    
+}
+.page1 {
+    
+    background-color: rgb(241, 110, 82);
+    
+}
+
+.page2 {
+
+    background-color: rgb(108, 147, 61);
+
+}
+
+.page3 {
+
+    background-color: rgb(252, 132, 3);
+
+}
+
+.page4 {
+
+    background-color: rgb(247, 194, 132);
+
+}
+
+.page5 {
+
+    background-color: rgb(211, 121, 123);
+
+}
